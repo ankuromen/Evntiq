@@ -1,5 +1,5 @@
 import React from 'react'
-import TestImg from '../assets/test123.jpg';
+import TestImg from '../Assets/test123.jpg';
 import '../components/FinalIntro.css'
 const FinalIntro = () => {
   return (
